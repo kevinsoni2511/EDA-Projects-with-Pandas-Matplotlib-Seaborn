@@ -1,22 +1,44 @@
-🔍 Exploratory Data Analysis (EDA) on Public Datasets
-This repository contains an in-depth Exploratory Data Analysis (EDA) project using the Titanic dataset. The goal is to uncover patterns, identify key insights, and understand the structure of the data using popular Python libraries such as Pandas, Matplotlib, and Seaborn.
+🔍 Exploratory Data Analysis (EDA) on the Titanic Dataset
+Welcome to a hands-on Exploratory Data Analysis (EDA) project where we dive into the famous Titanic dataset to discover patterns, uncover hidden insights, and tell a story through data.
 
-✅ Tools & Libraries
-Python
+Using powerful Python tools like Pandas, Matplotlib, and Seaborn, this project demonstrates how raw data can be transformed into meaningful visual insights.
 
-Pandas – for data manipulation and cleaning
+🚀 What You’ll Learn
+How to clean and prepare real-world data
 
-Matplotlib – for basic plotting
+Extract summary statistics to understand the dataset
 
-Seaborn – for advanced statistical visualizations
+Visualize relationships, distributions, and trends
 
-📊 Key Features
-Data loading and cleaning
+Answer key questions like:
+➡️ Who was more likely to survive?
+➡️ Did gender, class, or age matter?
 
-Handling missing values
+🧰 Tools & Technologies
+Python 3
 
-Descriptive statistics and summary insights
+🐼 Pandas – data manipulation & wrangling
+M
+📊 Matplotlib – basic plots
 
-Visualizations (distribution, correlation, survival patterns)
+🎨 Seaborn – advanced, elegant visualizations
 
-Exploratory questions (e.g., who had higher survival chances?)
+📌 Highlights of the Analysis
+✅ Cleaned and explored missing data
+
+✅ Generated meaningful visualizations (histograms, heatmaps, boxplots)
+
+✅ Conducted correlation analysis between features
+
+✅ Formulated and answered exploratory survival-based questions
+
+📁 Dataset
+Titanic dataset from Kaggle or Seaborn’s built-in collection
+
+🎯 Ideal For
+Beginners looking to practice EDA
+
+Data science enthusiasts sharpening visualization skills
+
+Anyone curious about the Titanic story from a data perspective
+
