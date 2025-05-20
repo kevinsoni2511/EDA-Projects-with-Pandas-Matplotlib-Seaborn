@@ -9,43 +9,42 @@ Using powerful Python tools like ***Pandas***, ***Matplotlib***, and ***Seaborn*
 
 ## 🚀 ***What You’ll Learn***
 
-* • ***How to clean and prepare real-world data***
-* • ***How to extract summary statistics to understand the dataset***
-* • ***How to visualize relationships, distributions, and trends***
-* • ***Answer key questions such as:***
-      • *Who was more likely to survive?*
-      • *Did gender, class, or age matter?*
+*  ***How to clean and prepare real-world data***
+*  ***How to extract summary statistics to understand the dataset***
+*  ***How to visualize relationships, distributions, and trends***
+*  ***Answer key questions such as:***
+   *  ***Who was more likely to survive?***
+   *  ***Did gender, class, or age matter?***
 
 ---
 
 ## 🧰 ***Tools & Technologies***
 
-* • ***Python 3***
-* • 🐼 ***Pandas*** – *data manipulation & wrangling*
-* • 📊 ***Matplotlib*** – *basic plotting*
-* • 🎨 ***Seaborn*** – *advanced statistical visualizations*
+*  ***Python 3***
+*  🐼 ***Pandas*** – *data manipulation & wrangling*
+*  📊 ***Matplotlib*** – *basic plotting*
+*  🎨 ***Seaborn*** – *advanced statistical visualizations*
 
 ---
 
 ## 📌 ***Key Features***
 
-* • ***Data loading and preprocessing***
-* • ***Handling and visualizing missing values***
-* • ***Summary statistics and feature analysis***
-* • ***Beautiful charts:*** histograms, boxplots, heatmaps
-* • ***Exploratory questions based on survival patterns***
+*  ***Data loading and preprocessing***
+*  ***Handling and visualizing missing values***
+*  ***Summary statistics and feature analysis***
+*  ***Beautiful charts:*** histograms, boxplots, heatmaps
+*  ***Exploratory questions based on survival patterns***
 
 ---
 
 ## 📁 ***Dataset***
 
-* • ***Titanic dataset*** from [Kaggle](https://www.kaggle.com/c/titanic) or available in Seaborn's built-in datasets
+*  ***Titanic dataset*** from [Kaggle](https://www.kaggle.com/c/titanic) or available in Seaborn's built-in datasets
 
 ---
 
 ## 🎯 ***Who Is This For?***
 
-* • ***Beginners exploring EDA techniques***
-* • ***Data science learners enhancing visualization skills***
-* • ***Curious minds interested in historical data storytelling***
-
+*  ***Beginners exploring EDA techniques***
+*  ***Data science learners enhancing visualization skills***
+*  ***Curious minds interested in historical data storytelling***
