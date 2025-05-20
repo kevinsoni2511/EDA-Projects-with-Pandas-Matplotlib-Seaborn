@@ -1,44 +1,51 @@
-🔍 Exploratory Data Analysis (EDA) on the Titanic Dataset
-Welcome to a hands-on Exploratory Data Analysis (EDA) project where we dive into the famous Titanic dataset to discover patterns, uncover hidden insights, and tell a story through data.
 
-Using powerful Python tools like Pandas, Matplotlib, and Seaborn, this project demonstrates how raw data can be transformed into meaningful visual insights.
+# 🔍 ***Exploratory Data Analysis (EDA) on the Titanic Dataset***
 
-🚀 What You’ll Learn
-How to clean and prepare real-world data
+Welcome to a hands-on ***Exploratory Data Analysis (EDA)*** project where we dive into the famous ***Titanic dataset*** to discover patterns, uncover hidden insights, and tell a story through data.
 
-Extract summary statistics to understand the dataset
+Using powerful Python tools like ***Pandas***, ***Matplotlib***, and ***Seaborn***, this project demonstrates how raw data can be transformed into meaningful visual insights.
 
-Visualize relationships, distributions, and trends
+---
 
-Answer key questions like:
-➡️ Who was more likely to survive?
-➡️ Did gender, class, or age matter?
+## 🚀 ***What You’ll Learn***
 
-🧰 Tools & Technologies
-Python 3
+* • ***How to clean and prepare real-world data***
+* • ***How to extract summary statistics to understand the dataset***
+* • ***How to visualize relationships, distributions, and trends***
+* • ***Answer key questions such as:***
+      • *Who was more likely to survive?*
+      • *Did gender, class, or age matter?*
 
-🐼 Pandas – data manipulation & wrangling
-M
-📊 Matplotlib – basic plots
+---
 
-🎨 Seaborn – advanced, elegant visualizations
+## 🧰 ***Tools & Technologies***
 
-📌 Highlights of the Analysis
-✅ Cleaned and explored missing data
+* • ***Python 3***
+* • 🐼 ***Pandas*** – *data manipulation & wrangling*
+* • 📊 ***Matplotlib*** – *basic plotting*
+* • 🎨 ***Seaborn*** – *advanced statistical visualizations*
 
-✅ Generated meaningful visualizations (histograms, heatmaps, boxplots)
+---
 
-✅ Conducted correlation analysis between features
+## 📌 ***Key Features***
 
-✅ Formulated and answered exploratory survival-based questions
+* • ***Data loading and preprocessing***
+* • ***Handling and visualizing missing values***
+* • ***Summary statistics and feature analysis***
+* • ***Beautiful charts:*** histograms, boxplots, heatmaps
+* • ***Exploratory questions based on survival patterns***
 
-📁 Dataset
-Titanic dataset from Kaggle or Seaborn’s built-in collection
+---
 
-🎯 Ideal For
-Beginners looking to practice EDA
+## 📁 ***Dataset***
 
-Data science enthusiasts sharpening visualization skills
+* • ***Titanic dataset*** from [Kaggle](https://www.kaggle.com/c/titanic) or available in Seaborn's built-in datasets
 
-Anyone curious about the Titanic story from a data perspective
+---
+
+## 🎯 ***Who Is This For?***
+
+* • ***Beginners exploring EDA techniques***
+* • ***Data science learners enhancing visualization skills***
+* • ***Curious minds interested in historical data storytelling***
 
